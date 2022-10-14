@@ -1,0 +1,20 @@
+section{
+  border: 1px solid #333;
+  padding: 1rem;
+
+  header{
+    margin-bottom: 1rem;
+  }
+  .task{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: .5rem 1rem;
+    border: 1px solid #ccc;
+    margin-bottom: .5rem;
+  }
+}
+p.text-center{
+  padding: 1rem;
+  font-size: 1.4rem;
+}
